@@ -22,7 +22,7 @@
 	int		i;
 	i = 0;
 	if(*input == 'c')  //para char  solo imprime un caracter
-		i+=
+		i+= print_char();
 	else if(*input == 's') //imprime una string
 		i+=
 	else if(*input == 'p') //Imprime en formate hexadecimal el puntero void
